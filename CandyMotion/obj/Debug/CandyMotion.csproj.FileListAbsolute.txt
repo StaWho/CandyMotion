@@ -1,0 +1,12 @@
+c:\temp\CandyMotion\CandyMotion\Bin\Debug\CandyMotion.dll
+c:\temp\CandyMotion\CandyMotion\Bin\Debug\CandyMotion.pdb
+c:\temp\CandyMotion\CandyMotion\Bin\Debug\AppManifest.xaml
+c:\temp\CandyMotion\CandyMotion\Bin\Debug\CandyMotion.xap
+c:\temp\CandyMotion\CandyMotion\Bin\Debug\CandyMotionTestPage.html
+c:\temp\CandyMotion\CandyMotion\obj\Debug\CandyMotion.csprojResolveAssemblyReference.cache
+c:\temp\CandyMotion\CandyMotion\obj\Debug\App.g.cs
+c:\temp\CandyMotion\CandyMotion\obj\Debug\MainPage.g.cs
+c:\temp\CandyMotion\CandyMotion\obj\Debug\CandyMotion.g.resources
+c:\temp\CandyMotion\CandyMotion\obj\Debug\CandyMotion.dll
+c:\temp\CandyMotion\CandyMotion\obj\Debug\CandyMotion.pdb
+c:\temp\CandyMotion\CandyMotion\obj\Debug\XapCacheFile.xml
